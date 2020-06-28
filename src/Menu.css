@@ -1,0 +1,40 @@
+/* .menustyle{
+    background-color: teal;
+    width:100%;
+    height:100px;
+   color: wheat;
+}
+
+.menustyle ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:100px
+}
+
+.menustyle ul li{
+    list-style: none;
+    text-transform: uppercase;
+} */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.menustyle{
+    background-color: teal;
+    width:100%;
+    height:100px;
+    color:wheat;
+}
+.menustyle ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:100px
+}
+
+.menustyle ul li{
+    list-style: none;
+    text-transform: uppercase;
+}

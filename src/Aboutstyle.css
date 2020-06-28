@@ -1,0 +1,21 @@
+/* .aboutstyle{
+    width:100%;
+    height:300px;
+    color:white;
+    background-color: #badc58;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.aboutstyle{
+    background-color:#badc58;
+    height:500px;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    border:1px solid black;
+    text-transform: uppercase;
+}
